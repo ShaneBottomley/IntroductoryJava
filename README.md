@@ -1,16 +1,16 @@
 
 ## Project Title
-Introductory Programming
+Introductory Programming (Java)
 
 ## About
 These are short programs I wrote in Java during my Introductory Programming class. The course follows along with the interactive Revel textbook Introduction to Java Programming by Daniel Liang. The exercise description I was given will be listed in a exercises.txt file in each weeks folder.
 
 ## Learning Breakdown
 Week 1:
-
+Introduction to Computers. We learned about CPU, memory, storage, and bits and bytes. I was pretty familiar with these from my CompTIA A+ certificate. We also 
 
 Week 2:
-Covered variable types, defining the main program, user input, comments.
+Covered
 
 Week 3:
 Implemented boolean expressions and if statements.
