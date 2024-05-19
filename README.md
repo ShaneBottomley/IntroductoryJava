@@ -7,28 +7,29 @@ These are short programs I wrote in Java during my Introductory Programming clas
 
 ## Learning Breakdown
 Week 1:
-Introduction to Computers. We learned about CPU, memory, storage, and bits and bytes. I was pretty familiar with these from my CompTIA A+ certificate. We also 
+Introduction to Computers. We learned about CPU, memory, storage, and bits and bytes. I was pretty familiar with these from my CompTIA A+ certificate. We also went over installing the Java SDK and creating our first Java program.
 
 Week 2:
-Covered
+Covered user input using the Scanner class, storing data in variable, using operators, and the basic software development process.
 
 Week 3:
-Implemented boolean expressions and if statements.
+Implemented boolean expressions, if, if else, nested if and multiway if statements. Used switch statements and combination operators (!, &&, ||).
 
 Week 4:
-Took a leap forward with learning about functions and function calls. Defined my own function and used built in functions.
+Covered using the Math class to solve problems, String objects, and the Character class.
+
 
 Week 5:
-This week I learned about loops and the while statement. Student grades iterates through a list of students and asks for grades for each. It then returns the name of the student with the highest weighted grade.
+While loops, do-while loops, and for loops. Pretty similar to Python, just with different syntax. 
 
 Week 6:
-I learned about working with strings, such as traversing through a string and string slicing and counting. The "PassCheck" program iterates through a "password" input by the user and ensures it meets the complexity requirements.
+We learned about methods in week 6. This was fun to learn. I found it odd you had to specify the return type, but I guess that's Java!
 
 Week 7:
-We covered traversing, slicing, and operating on arrays. The "Road Trip" program takes information from the user about a road trip, adds it to multiple arrays and then does computatations on the array.
+This week we covered single and multidimensional arrays. Multidimensional arrays were a bit challenging to work with, but just thinking of it as a grid of column and rows helped me a lot. 
 
 Week 8:
-In my "Final Project" I added onto the cleaning program from week 3 & 4. I learned more about validating user input and adding more functions to work together.
+We're learning about objects and classes. Finally I can start to understand what all these dot notations actually mean! Seems pretty cool and powerful. I am looking forward to building more in depth programs in my next class Intermediate Programming!
 
 Outcome:
-Overall, this course was good introduction to Python. There are still a few things I feel I am missing like proper ways of validating user input. Also we did not touch on classes at all, but I have familiarized myself with the concepts using materials from outside the course. I look forward to my next course "Introduction to Programming" 
+Overall, I had fun learning Java. It seems like a bit more complex than Python, but I also have heard that there is plenty of systems out there running on Java and it's a great first language to learn. One thing I will work on is leaving better comments in my code. I did a poor job on that in these programs will do better from now on!

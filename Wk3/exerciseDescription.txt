@@ -1,0 +1,12 @@
+(Find the number of days in a month)
+Write a program that prompts the user to enter the month and year and displays the number of days in the month.
+For example,
+If the user entered month 2 and year 2012, the program should display that February 2012 has 29 days.
+If the user entered month 3 and year 2015, the program should display that March 2015 has 31 days.
+Class Name: Exercise03_11
+
+(Geometry: point in a rectangle?)
+Write a program that prompts the user to enter a point (x, y) and checks whether the point is within the rectangle centered at (0, 0) with width 10 and height 5.
+For example, (2, 2) is inside the rectangle and (6, 4) is outside the rectangle.
+(Hint: A point is in the rectangle if its horizontal distance to (0, 0) is less than or equal to10 / 2 and its vertical distance to (0, 0) is less than or equal to 5.0 / 2. Test your program to cover all cases.)
+Class Name: Exercise03_23
