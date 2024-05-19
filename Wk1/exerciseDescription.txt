@@ -1,6 +1,0 @@
-(Display three messages)
-Write a program that displays:
-Welcome to Java
-Welcome to Computer Science
-Programming is fun
-Class Name: Exercise01_01

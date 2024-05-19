@@ -3,7 +3,7 @@
 Introductory Programming (Java)
 
 ## About
-These are short programs I wrote in Java during my Introductory Programming class. The course follows along with the interactive Revel textbook Introduction to Java Programming by Daniel Liang. The exercise description I was given will be listed in a exercises.txt file in each weeks folder.
+These are short programs I wrote in Java during my Introductory Programming class. The course follows along with the interactive Revel textbook Introduction to Java Programming by Daniel Liang.
 
 ## Learning Breakdown
 Week 1:
